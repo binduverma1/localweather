@@ -1,0 +1,20 @@
+#mainheading{
+ font-size:50px;
+text-align:center;
+  font-weight:bold;
+}
+body{
+   background: linear-gradient(to right, pink,white,aqua,violet); ); 
+  
+}
+.jumbotron{ background-color:black;
+  margin-top:10px;
+  padding-top:50px;
+  border:solid;
+  broder-outer:solid;
+  border-color:gray
+  
+}
+.btn{
+  background-color:gray
+}
